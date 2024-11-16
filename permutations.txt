@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/cujanovic/goaltdns/master/words.txt
+https://raw.githubusercontent.com/jordanpotti/AWSBucketDump/master/BucketNames.txt
