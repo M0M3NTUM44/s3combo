@@ -34,11 +34,11 @@ cd s3combo
 1. **Generate Bucket Name Permutations with Base Names**:
    - Using a single or multiple base names (comma-separated):
      ```bash
-     python s3COMBO.py -n "example,example2" -o output.txt
+     python s3combo.py -n "example,example2" -o output.txt
      ```
    - Using a file containing base names:
      ```bash
-     python s3COMBO.py -nL basenames.txt -o output.txt
+     python s3combo.py -nL basenames.txt -o output.txt
      ```
 
 2. **Key Options**:
@@ -51,7 +51,7 @@ cd s3combo
 ### **Example**
 To generate permutations for the base name `mybucket` and save them to `results.txt`:
 ```bash
-python s3COMBO.py -n "mybucket" -o results.txt
+python s3combo.py -n "mybucket" -o results.txt
 ```
 ---
 ### **Edit permutation sources**
