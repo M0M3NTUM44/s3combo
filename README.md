@@ -53,6 +53,6 @@ python s3COMBO.py -n "mybucket" -o results.txt
 ```
 ---
 ### **Edit permutation sources**
-You can change the sources of the permutataion wordlists to what ever you want (as long as <curl> can reach it).
+You can change the sources of the permutataion wordlists to what ever you want (as long as *curl* can reach it).
 This can be done by editing the *permutations.txt* file.
 
