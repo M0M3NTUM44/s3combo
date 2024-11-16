@@ -24,7 +24,9 @@ S3COMBO is a Python tool for generating permutations of S3 bucket names based on
    ```
 ### **Installation**
 ```bash
- git clone https://github.com/M0M3NTUM44/s3combo.git
+git clone https://github.com/M0M3NTUM44/s3combo.git
+```
+```bash
 cd s3combo
 ```
    
